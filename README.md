@@ -1,4 +1,5 @@
-https://cdn.discordapp.com/attachments/1386444311859564698/1467217312041144474/Oddities.gif?ex=697f941a&is=697e429a&hm=246fac02ab72e26406f7be8e7c45ded5ba7064d132cc83de9bcf0f4e6c3ece72&
+
+![Oddities](https://github.com/user-attachments/assets/b6996d9f-91ac-43b4-8802-71a441e9aa86)
 <h1 align="center">Hi 👋, I'm mohammed</h1>
 <h3 align="center">From zero to code 🚀 | C Programming Code. Learn. Improve. Repeat. Building my future with C 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadefanidi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadefanidi" /> </p>
