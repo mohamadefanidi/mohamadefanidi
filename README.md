@@ -51,6 +51,9 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/mohamadefanidi/mohamadefanidi/blob/output/github-snake.svg)
 
 
 
