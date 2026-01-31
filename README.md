@@ -1,6 +1,6 @@
 
-![Oddities](https://github.com/user-attachments/assets/b6996d9f-91ac-43b4-8802-71a441e9aa86)
-<h1 align="center">Hi 👋, I'm mohammed</h1>
+<h1 alig![Register - Login](https://github.com/user-attachments/assets/ddf68770-b9ee-403e-b5b9-205587eef7f0)
+n="center">Hi 👋, I'm mohammed</h1>
 <h3 align="center">From zero to code 🚀 | C Programming Code. Learn. Improve. Repeat. Building my future with C 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadefanidi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadefanidi" /> </p>
 
