@@ -4,6 +4,6 @@
   🚀 Learning C programming from the ground up<br><br>
   🧠 Understanding memory, logic, and how systems really work<br><br>
   💪 Building discipline and a strong programmer mindset 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h3>
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28"/>
 
