@@ -1,9 +1,5 @@
 ![ezgif-1ae7d39eb2e8655a](https://github.com/user-attachments/assets/08b51a3d-b71d-4207-8c97-682a1c818376)
 
-
-https://github.com/user-attachments/assets/c24efb64-ff38-46f5-af27-d799eb261dfa
-
-
 <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> I'm Mohammed</h1>
 <h3 align="center">
   🚀 Learning C programming from the ground up<br><br>
