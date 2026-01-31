@@ -1,4 +1,5 @@
-  ![Register - Login](https://github.com/user-attachments/assets/d6a4d2c3-5abc-42d8-ad51-6b4799404ff8)
+
+![ezgif-1ae7d39eb2e8655a](https://github.com/user-attachments/assets/b5032d9b-b842-4f68-a94a-a685fbef6077)
 
 <h3 align="center">From zero to code 🚀 | C Programming Code. Learn. Improve. Repeat. Building my future with C 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadefanidi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadefanidi" /> </p>
