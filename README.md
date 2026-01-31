@@ -50,10 +50,10 @@
 </p>
 
 </div>
-
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/mohamadefanidi/mohamadefanidi/blob/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/mohamadefanidi/mohamadefanidi/output/github-snake.svg)
+
 
 
 
