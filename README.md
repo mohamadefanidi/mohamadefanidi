@@ -50,9 +50,10 @@
 </p>
 
 </div>
-## 🐍 Contribution Snake
+<h1>🐍 Contribution Snake </h1>
 
 ![Snake](https://raw.githubusercontent.com/mohamadefanidi/mohamadefanidi/output/github-snake.svg)
+
 
 
 
