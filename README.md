@@ -1,6 +1,6 @@
 
-<h1 alig![Register - Login](https://github.com/user-attachments/assets/ddf68770-b9ee-403e-b5b9-205587eef7f0)
-n="center">Hi 👋, I'm mohammed</h1>
+![Register - Login](https://github.com/user-attachments/assets/d6a4d2c3-5abc-42d8-ad51-6b4799404ff8)
+
 <h3 align="center">From zero to code 🚀 | C Programming Code. Learn. Improve. Repeat. Building my future with C 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadefanidi&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadefanidi" /> </p>
 
