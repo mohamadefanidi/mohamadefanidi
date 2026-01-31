@@ -6,4 +6,5 @@
   💪 Building discipline and a strong programmer mindset 
 </h3>
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28"/>
-
+<img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="28"/>
+<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="28"/>
