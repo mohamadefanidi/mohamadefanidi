@@ -1,4 +1,5 @@
-![ezgif-1ae7d39eb2e8655a](https://github.com/user-attachments/assets/08b51a3d-b71d-4207-8c97-682a1c818376)
+
+![ezgif-682ac9a50e5afc20](https://github.com/user-attachments/assets/9cacda9c-9e0c-49b6-a73e-dc335d54174a)
 
 <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> I'm Mohammed</h1>
 <h3 align="center">
