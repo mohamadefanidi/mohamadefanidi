@@ -5,7 +5,7 @@
   🧠 Understanding memory, logic, and how systems really work<br><br>
   💪 Building discipline and a strong programmer mindset 
 </h3>
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -33,7 +33,7 @@
          alt="Linux" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/CDrJUkRmGt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CDrJUkRmGt" height="30" width="40" /></a>
 </p>
