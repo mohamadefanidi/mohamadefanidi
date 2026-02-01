@@ -52,9 +52,3 @@
 </div>
 <h1>🐍 Contribution Snake </h1>
 <img src="https://raw.githubusercontent.com/mohamadefanidi/mohamadefanidi/output/github-snake.svg" width="100%">
-
-
-
-
-
-
