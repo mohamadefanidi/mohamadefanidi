@@ -1,5 +1,6 @@
 
-<img width="512" height="300" alt="a pixie dyed here" src="https://github.com/user-attachments/assets/ebe834f8-3aed-4afa-84cd-40a26b818f55" />
+https://github.com/user-attachments/assets/50a73b77-483f-4dc1-95ee-34d04e646619
+
 <h1>
   Hi , 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
